@@ -1,6 +1,6 @@
 <h2>This is a Programming Fundamental Assignment assigned by Sir Nauman Riaz,i wrote this assignment in C++ language and performed all the programs myself in Visual Studio Code. </h2>
 
-Program that assigns values to three variables during declaration and prints them on Screen <b>Q01.cpp</b>
+Program that assigns values to three variables during declaration and prints them on Screen <big>Q01.cpp</big>
 
 Program to print a message "C language is a powerful programing language <b>Q02.cpp </b>
 
