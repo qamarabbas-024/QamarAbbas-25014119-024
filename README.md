@@ -1,5 +1,4 @@
-<h2>This is a Programming Fundamental Assignment assigned by Sir Nauman Riaz.
-i wrote this assignment in C++ language and performed all the programs myself in Visual Studio Code. </h2>
+<h2>This is a Programming Fundamental Assignment is assigned by Sir Nauman Riaz,i wrote this assignment in C++ language and performed all the programs myself in Visual Studio Code. </h2>
 
 Program that assigns values to three variables during declaration and prints them on Screen <b>Q01.cpp</b>
 
