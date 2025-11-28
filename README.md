@@ -49,10 +49,10 @@ Program to print the output as given under by using escape sequence.
 				"Pakistan"       <b>Q20.cpp </b>
 
 Program to print the output as shown below using '\n' escape sequence (without using loop and use one printf statement)
-	XXXXX
-	XXXX
-	XXX
-	XX
+	XXXXX <br>
+	XXXX <br>
+	XXX <br>
+	XX <br>
 	X     <b>Q21.cpp </b>
 
 Program to input the name, age, height and gender of the student and prints the data of student on screen. <b>Q22.cpp </b>
