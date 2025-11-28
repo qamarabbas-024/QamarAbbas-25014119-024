@@ -48,7 +48,7 @@ Program to print the output as given under by using escape sequence.
 				'P'     'A'     'K'  
 				"Pakistan"       <b>Q20.cpp </b>
 
-Program to print the output as shown below using '\n' escape sequence (without using loop and use one printf statement)
+Program to print the output as shown below using '\n' escape sequence (without using loop and use one printf statement) <br>
 	XXXXX <br>
 	XXXX <br>
 	XXX <br>
